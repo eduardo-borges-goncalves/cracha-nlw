@@ -10,3 +10,5 @@ O código consome a API do github por meio do método .fetch para obter os dados
 
 Por fim, no Html acessamos as redes sociais do participante. 
 crachá virtual criado na trilha origin na NLW Heat. 
+
+![WhatsApp Image 2022-01-24 at 20 23 39](https://user-images.githubusercontent.com/92747098/150881857-ab110deb-227e-40cd-a7bc-ee0d8d3b1496.jpeg)
